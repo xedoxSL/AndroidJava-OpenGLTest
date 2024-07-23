@@ -1,2 +1,2 @@
-# AndroidJava---OpenGLTest
+# AndroidJava - OpenGLTest
 Проект для себя, чтоб если что восстановить рабочий код, можете если что брать код :). Связаться - t.me/JavaSlimeLime
