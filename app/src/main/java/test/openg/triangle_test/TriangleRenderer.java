@@ -6,10 +6,13 @@ import javax.microedition.khronos.opengles.GL10;
 import javax.microedition.khronos.egl.EGLConfig;
 
 public class TriangleRenderer implements Renderer {
-
+    
+    private GLTriangle triangle;
+    
     @Override
     public void onSurfaceCreated(GL10 gl, EGLConfig config) {
         GLES32.glClearColor(0.0f, 1.0f, 0.0f, 1.0f); // Установка цвета очистки фона (зеленым)
+        triangle = new GLTriangle();
     }
 
     @Override
@@ -20,5 +23,6 @@ public class TriangleRenderer implements Renderer {
     @Override
     public void onDrawFrame(GL10 gl) {
         GLES32.glClear(GLES32.GL_COLOR_BUFFER_BIT); // Очистка & заливка фона
+        triangle.draw(); // Рисуем триугольник
     }
 }

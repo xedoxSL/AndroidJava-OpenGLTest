@@ -1,7 +1,22 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/OpenGL Test/app/src/main/java/test/openg/config/GLShader.java",
+      "file": "/storage/emulated/0/AndroidIDEProjects/OpenGL Test/app/src/main/java/test/openg/triangle_test/GLTriangle.java",
+      "selection": {
+        "end": {
+          "column": 10,
+          "index": 399,
+          "line": 18
+        },
+        "start": {
+          "column": 10,
+          "index": 399,
+          "line": 18
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/OpenGL Test/app/src/main/res/raw/triangle_fragment.glsl",
       "selection": {
         "end": {
           "column": 0,
@@ -16,7 +31,7 @@
       }
     },
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/OpenGL Test/app/src/main/java/test/openg/triangle_test/TriangleRenderer.java",
+      "file": "/storage/emulated/0/AndroidIDEProjects/OpenGL Test/app/src/main/res/raw/triangle_vertex.glsl",
       "selection": {
         "end": {
           "column": 0,
@@ -31,5 +46,5 @@
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/OpenGL Test/app/src/main/java/test/openg/config/GLShader.java"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/OpenGL Test/app/src/main/java/test/openg/triangle_test/GLTriangle.java"
 }

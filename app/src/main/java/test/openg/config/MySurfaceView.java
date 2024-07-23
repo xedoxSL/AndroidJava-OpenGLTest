@@ -2,7 +2,8 @@ package test.openg;
 
 import android.content.Context;
 import android.opengl.GLSurfaceView;
-import test.openg.triangle_test;
+import test.openg.triangle_test.GLTriangle;
+import test.openg.triangle_test.TriangleRenderer;
 
 public class MySurfaceView extends GLSurfaceView {
 

@@ -1,23 +1,44 @@
 package test.openg.config;
 
-import android.app.Application;
 import android.content.Context;
-import java.io.FileInputStream;
+import android.opengl.GLES32;
+import android.util.Log;
+import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-public class GLShader extends Application {
+public class GLShader {
 
-    public static void getShaderText(int resID) {
-        
-        
+    private static Context appContext;
+
+    public static void setContext(Context context) {
+        appContext = context;
     }
 
-    private Context context;
+    public static String readRaw(int resourceId) {
+        StringBuilder stringBuilder = new StringBuilder();
+        try {
+            BufferedReader bufferedReader = null;
 
-    @Override
-    public void onCreate() {
-        super.onCreate();
-        this.context = this;
+            InputStream inputStream = appContext.getResources().openRawResource(resourceId);
+            bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
+            String line;
+            while ((line = bufferedReader.readLine()) != null) {
+                stringBuilder.append(line);
+                stringBuilder.append("\n");
+                Log.e("", line);
+            }
+            bufferedReader.close();
+        } catch (Exception err) {
+            err.printStackTrace();
+        }
+        return stringBuilder.toString();
+    }
+
+    public static int compileShader(int type, int resId) {
+        int shader = GLES32.glCreateShader(type);
+        GLES32.glShaderSource(shader, readRaw(resId));
+        GLES32.glCompileShader(shader);
+        return shader;
     }
 }
