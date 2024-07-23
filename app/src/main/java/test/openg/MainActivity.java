@@ -1,7 +1,9 @@
 package test.openg;
 
 import android.app.Activity;
+import android.content.Context;
 import android.os.Bundle;
+import test.openg.config;
 
 public class MainActivity extends Activity {
 
