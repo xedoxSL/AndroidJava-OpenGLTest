@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "test.openg.app-merged_res-5:/values_values.arsc.flat",
+            "outputFile": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/values_values.arsc.flat",
             "map": [
                 {
                     "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/res/values/values.xml",

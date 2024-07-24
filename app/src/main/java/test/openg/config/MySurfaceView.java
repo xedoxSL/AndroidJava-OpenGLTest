@@ -2,6 +2,7 @@ package test.openg;
 
 import android.content.Context;
 import android.opengl.GLSurfaceView;
+import test.openg.rotate_test.RotateRenderer;
 import test.openg.square_test.RectRenderer;
 import test.openg.triangle_test.GLTriangle;
 import test.openg.triangle_test.TriangleRenderer;
@@ -16,5 +17,7 @@ public class MySurfaceView extends GLSurfaceView {
         
         // setRenderer(new TriangleRenderer()); // Триугольник
         setRenderer(new RectRenderer()); // Прямоугольник
+        
+        setRenderMode(RENDERMODE_CONTINUOUSLY);
     }
 }

@@ -1,70 +1,94 @@
 [
     {
-        "merged": "test.openg.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "test.openg.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "test.openg.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/raw_rotate_vertex.glsl.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/raw/rotate_vertex.glsl"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "test.openg.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/raw_rotate_fragment.glsl.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/raw/rotate_fragment.glsl"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "test.openg.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/raw_triangle_vertex.glsl.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/raw/triangle_vertex.glsl"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "test.openg.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "test.openg.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "test.openg.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "test.openg.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "test.openg.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/raw_triangle_vertex.glsl.flat",
-        "source": "test.openg.app-main-7:/raw/triangle_vertex.glsl"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/raw_triangle_fragment.glsl.flat",
-        "source": "test.openg.app-main-7:/raw/triangle_fragment.glsl"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/raw_default_fragment.glsl.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/raw/default_fragment.glsl"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "test.openg.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
-        "source": "test.openg.app-main-7:/drawable/ic_launcher_background.xml"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/layout_activity_main.xml.flat",
-        "source": "test.openg.app-main-7:/layout/activity_main.xml"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/raw_default_vertex.glsl.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/raw/default_vertex.glsl"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "test.openg.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "test.openg.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "test.openg.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "test.openg.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-merged_res-5:/raw_triangle_fragment.glsl.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/test.openg.app-main-7:/raw/triangle_fragment.glsl"
+    },
+    {
+        "merged": "test.openg.app-merged_res-5:/raw_rotate_vertex.glsl.flat",
+        "source": "test.openg.app-main-7:/raw/rotate_vertex.glsl"
+    },
+    {
+        "merged": "test.openg.app-merged_res-5:/raw_rotate_fragment.glsl.flat",
+        "source": "test.openg.app-main-7:/raw/rotate_fragment.glsl"
     }
 ]

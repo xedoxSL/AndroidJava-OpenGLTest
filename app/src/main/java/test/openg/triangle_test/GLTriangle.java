@@ -33,9 +33,9 @@ public class GLTriangle {
         floatBuffer.put(vertices);
         floatBuffer.position(0);
 
-        int vertexShader = GLShader.compileShader(GLES32.GL_VERTEX_SHADER, R.raw.triangle_vertex);
+        int vertexShader = GLShader.compileShader(GLES32.GL_VERTEX_SHADER, R.raw.default_vertex);
         int fragmentShader =
-                GLShader.compileShader(GLES32.GL_FRAGMENT_SHADER, R.raw.triangle_fragment);
+                GLShader.compileShader(GLES32.GL_FRAGMENT_SHADER, R.raw.default_fragment);
 
         program = GLES32.glCreateProgram();
         GLES32.glAttachShader(program, vertexShader);

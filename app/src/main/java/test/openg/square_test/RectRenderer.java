@@ -7,7 +7,7 @@ import javax.microedition.khronos.egl.EGLConfig;
 
 public class RectRenderer implements Renderer {
 
-    private GLRect rect;
+    private GLRect rect; // Обьект класса поямоугольникп
 
     @Override
     public void onSurfaceCreated(GL10 gl, EGLConfig config) {

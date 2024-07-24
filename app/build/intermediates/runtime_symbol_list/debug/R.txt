@@ -5,8 +5,10 @@ int drawable ic_launcher_foreground 0x7f020003
 int layout activity_main 0x7f030000
 int mipmap ic_launcher 0x7f040000
 int mipmap ic_launcher_round 0x7f040001
-int raw triangle_fragment 0x7f050000
-int raw triangle_vertex 0x7f050001
+int raw default_fragment 0x7f050000
+int raw default_vertex 0x7f050001
+int raw rotate_fragment 0x7f050002
+int raw rotate_vertex 0x7f050003
 int string app_name 0x7f060000
 int string msg_bind_service_failed 0x7f060001
 int string notification_action_exit 0x7f060002
