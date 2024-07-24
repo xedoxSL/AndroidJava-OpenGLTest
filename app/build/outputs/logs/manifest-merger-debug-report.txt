@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:3:1-22:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:3:1-22:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:3:1-22:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:3:1-22:12
+MERGED from [androidx.databinding:viewbinding:8.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/52df80ca90a328f524178e0ce8e3b404/transformed/viewbinding-8.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:18:1-44:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:3:1-22:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:3:1-22:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:3:1-22:12
+	package
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:3:1-22:12
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:3:1-22:12
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:3:1-22:12
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:4:5-63
+application
+ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:31:5-42:19
+MERGED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:31:5-42:19
+	android:supportsRtl
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:8:9-48
+	android:icon
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:6:9-35
+activity#test.openg.MainActivity
+ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:11:9-20:20
+	android:exported
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:12:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:14:13-19:29
+action#android.intent.action.MAIN
+ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:15:17-16:65
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:16:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:17:17-18:71
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:18:21-68
+uses-sdk
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/52df80ca90a328f524178e0ce8e3b404/transformed/viewbinding-8.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/52df80ca90a328f524178e0ce8e3b404/transformed/viewbinding-8.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:21:5-44
+MERGED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:21:5-44
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+queries
+ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:23:5-25:15
+package#com.itsaky.androidide
+ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:24:9-57
+	android:name
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:24:18-54
+uses-permission#android.permission.INTERNET
+ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:27:22-64
+uses-permission#com.itsaky.androidide.permission.BIND_LOG_SERVICE
+ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:28:5-89
+	android:name
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:28:22-86
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:29:5-77
+	android:name
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:29:22-74
+provider#com.itsaky.androidide.logsender.utils.LogSenderInstaller
+ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:32:9-36:40
+	android:enabled
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:35:13-54
+	android:authorities
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:34:13-71
+	android:exported
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:33:13-84
+service#com.itsaky.androidide.logsender.LogSenderService
+ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:38:9-41:56
+	android:exported
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:40:13-37
+	android:foregroundServiceType
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:41:13-53
+	android:name
+		ADDED from [com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:39:13-76

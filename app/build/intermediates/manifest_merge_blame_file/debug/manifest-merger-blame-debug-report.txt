@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="test.openg"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml
+10
+11    <queries>
+11-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:23:5-25:15
+12        <package android:name="com.itsaky.androidide" />
+12-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:24:9-57
+12-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:24:18-54
+13    </queries>
+14
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:27:5-67
+15-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:27:22-64
+16    <uses-permission android:name="com.itsaky.androidide.permission.BIND_LOG_SERVICE" />
+16-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:28:5-89
+16-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:28:22-86
+17    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+17-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:29:5-77
+17-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:29:22-74
+18
+19    <application
+19-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:5:5-21:19
+20        android:allowBackup="true"
+20-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:6:9-35
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:7:9-43
+23        android:label="@string/app_name"
+23-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:9:9-41
+24        android:roundIcon="@mipmap/ic_launcher"
+24-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:8:9-48
+25        android:supportsRtl="true" >
+25-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:10:9-35
+26        <activity
+26-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:11:9-20:20
+27            android:name="test.openg.MainActivity"
+27-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:12:13-40
+28            android:exported="true" >
+28-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:13:13-36
+29            <intent-filter>
+29-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:14:13-19:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:15:17-16:65
+30-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:16:21-62
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:17:17-18:71
+32-->/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/AndroidManifest.xml:18:21-68
+33            </intent-filter>
+34        </activity>
+35
+36        <provider
+36-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:32:9-36:40
+37            android:name="com.itsaky.androidide.logsender.utils.LogSenderInstaller"
+37-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:33:13-84
+38            android:authorities="test.openg.logsender-installer"
+38-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:34:13-71
+39            android:enabled="@bool/logsender_enabled"
+39-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:35:13-54
+40            android:exported="false" />
+40-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:36:13-37
+41
+42        <service
+42-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:38:9-41:56
+43            android:name="com.itsaky.androidide.logsender.LogSenderService"
+43-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:39:13-76
+44            android:exported="false"
+44-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:40:13-37
+45            android:foregroundServiceType="dataSync" />
+45-->[com.itsaky.androidide:logsender:2.7.1-beta] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/AndroidManifest.xml:41:13-53
+46    </application>
+47
+48</manifest>

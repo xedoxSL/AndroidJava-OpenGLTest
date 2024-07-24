@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="logsender_enabled">true</bool>
+    <string name="app_name">OpenGL Test</string>
+    <string name="msg_bind_service_failed">Failed to bind to AndroidIDE</string>
+    <string name="notification_action_exit">Exit</string>
+</resources>

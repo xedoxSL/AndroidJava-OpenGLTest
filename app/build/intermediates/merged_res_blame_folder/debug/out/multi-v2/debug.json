@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "test.openg.app-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,183",
+                        "endColumns": "46,80,57",
+                        "endOffsets": "97,178,236"
+                    },
+                    "to": {
+                        "startLines": "2,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,151,232",
+                        "endColumns": "46,80,57",
+                        "endOffsets": "97,227,285"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endColumns": "48",
+                        "endOffsets": "146"
+                    }
+                }
+            ]
+        }
+    ]
+}

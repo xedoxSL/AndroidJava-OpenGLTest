@@ -1,0 +1,13 @@
+test.openg
+bool logsender_enabled
+drawable ic_androidide_log
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw triangle_fragment
+raw triangle_vertex
+string app_name
+string msg_bind_service_failed
+string notification_action_exit

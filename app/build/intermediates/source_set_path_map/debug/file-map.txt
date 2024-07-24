@@ -1,0 +1,7 @@
+test.openg.app-logsender-2.7.1-beta-debug-0 /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cbe845408dd603e8d9d317f83a0ddf0f/transformed/logsender-2.7.1-beta-debug/res
+test.openg.app-resValues-1 /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/build/generated/res/resValues/debug
+test.openg.app-packageDebugResources-2 /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+test.openg.app-packageDebugResources-3 /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+test.openg.app-merged_res-4 /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/build/intermediates/merged_res/debug
+test.openg.app-debug-5 /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/debug/res
+test.openg.app-main-6 /storage/emulated/0/AndroidIDEProjects/AndroidJava---OpenGLTest/app/src/main/res
